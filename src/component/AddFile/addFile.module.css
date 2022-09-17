@@ -1,0 +1,14 @@
+
+.content {
+    align-items: flex-start;
+    width: 400px;
+    height: 100px;
+    flex-direction: column;
+    margin-bottom: 20px;
+    display: flex;
+    border: #0f0f0f;
+}
+
+p {
+    color: #B2B2B4;
+}
